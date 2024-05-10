@@ -1,0 +1,13 @@
+.venv
+.env
+scritps_sql/Regiones_Provincias_Comunas_Chile/BDCUT_CL__PosgreSQL_utf8__generado.sql
+scritps_sql/sql-Models.txt
+scritps_sql/
+sql-Models.txt
+Regiones_Provincias_Comunas_Chile/BDCUT_CL__PosgreSQL_utf8__generado.sql
+Hito1
+inmobiliaria\inmueble_regiones.txt
+inmobiliaria\region.json
+inmueble_regiones.txt
+region.json
+

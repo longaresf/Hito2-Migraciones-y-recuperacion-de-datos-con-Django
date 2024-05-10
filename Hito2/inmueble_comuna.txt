@@ -1,0 +1,5 @@
+Lo Barnechea,nombre1,No amoblado, 2 dormitorio, 1 baño, Admite mascotas, 0 estacionamiento, Año de construcción: 2005
+San Bernardo,nombre2,No amoblado, 2 dormitorio, 1 baño, Admite mascotas, 0 estacionamiento, Año de construcción: 2005
+Providencia,nombre3,No amoblado, 2 dormitorio, 1 baño, Admite mascotas, 0 estacionamiento, Año de construcción: 2005
+Santiago,nombre4,No amoblado, 2 dormitorio, 1 baño, Admite mascotas, 0 estacionamiento, Año de construcción: 2005
+La Florida,nombre5,No amoblado, 2 dormitorio, 1 baño, Admite mascotas, 0 estacionamiento, Año de construcción: 2005
